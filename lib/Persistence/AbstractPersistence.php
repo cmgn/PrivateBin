@@ -28,7 +28,7 @@ abstract class AbstractPersistence
      * @static
      * @var    string
      */
-    private static $_path = 'data';
+    private static $_path = '/var/lib/privatebin';
 
     /**
      * set the path
